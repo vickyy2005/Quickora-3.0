@@ -1,0 +1,23 @@
+{
+  "name": "quickora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quickora/Quickora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quickora/Quickora/issues"
+  },
+  "homepage": "https://github.com/Quickora/Quickora#readme",
+  "dependencies": {
+    "react-range": "^1.10.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
